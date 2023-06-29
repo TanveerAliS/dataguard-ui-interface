@@ -1,4 +1,6 @@
 # Getting Started with Vite
+![Screenshot 2023-06-29 at 22 55 24](https://github.com/TanveerAliS/dataguard-ui-interface/assets/3439040/a3684b13-9580-46e6-b87d-1b336f2e75f8)
+![Screenshot 2023-06-29 at 23 00 52](https://github.com/TanveerAliS/dataguard-ui-interface/assets/3439040/925e563e-ec35-4578-afd1-91904046f4be)
 
 This project was bootstrapped with [Vite](https://vitejs.dev/).
 
