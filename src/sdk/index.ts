@@ -1,4 +1,3 @@
-// api.ts
 const BASE_URL = "http://localhost:3001";
 
 export const getTabs = async (): Promise<any[]> => {
