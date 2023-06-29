@@ -5,16 +5,17 @@
       "title": "Marketing",
       "icon": "icon-marketing",
       "active": [
-        "plugin6",
-        "plugin1",
-        "plugin5",
-        "plugin4",
-        "plugin2"
+        "plugin2",
+        "plugin1"
       ],
       "disabled": [
         "plugin3"
       ],
-      "inactive": []
+      "inactive": [
+        "plugin6",
+        "plugin4",
+        "plugin5"
+      ]
     },
     {
       "id": "tab2",
