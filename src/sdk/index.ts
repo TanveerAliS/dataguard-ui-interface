@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = "https://dataguard-server-56lu.vercel.app";
 
 export const getTabs = async (): Promise<any[]> => {
   const response = await fetch(`${BASE_URL}/tabs`);
